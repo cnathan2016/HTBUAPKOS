@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>README.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>483525742.44723302</real>
+				<key>version</key>
+				<dict>
+					<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>demand.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>483525749.01336902</real>
+				<key>version</key>
+				<dict>
+					<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>hardware.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>483526685.380099</real>
+				<key>version</key>
+				<dict>
+					<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>hardware.md</string>
+		</array>
+		<array>
+			<string>README.md</string>
+		</array>
+		<array>
+			<string>demand.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
+			<integer>14</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
